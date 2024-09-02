@@ -1,20 +1,12 @@
  # SAVE TO THE CLOUD
- URL : http://www.savetothecloud.com/
+
  
  
  ![cloud 1](https://user-images.githubusercontent.com/31361652/31910363-1812395e-b7f2-11e7-98b6-4281bf053239.PNG)
 
  # INTRODUCTION 
-
-   * University Name: http://www.sjsu.edu/
-
-   * Course: [Cloud Technologies](http://info.sjsu.edu/web-dbgen/catalog/courses/CMPE281.html/)
-
-   * Professor: [Sanjay Garje](https://www.linkedin.com/in/sanjaygarje/)
-
-   * ISA: [Divyanthika Urs](https://www.linkedin.com/in/divyankithaurs/)
    
-   * Student: [Anuradha Rajashekar](https://www.linkedin.com/in/anu-rajashekar-4b950092/)
+   * Student: [Aman Shaikh](https://www.linkedin.com/in/aman-shaikh-90b8b9227/)
    
    # PROJECT IDEA
 
@@ -52,18 +44,7 @@ upload a new files again with the update / revision.
      
      • File Name/ Description
      
-     • File Update Time
-     ![cloud 6](https://user-images.githubusercontent.com/31361652/31910403-3840a4cc-b7f2-11e7-95e9-8a6b76c42370.PNG)
-   
- * Resources Page : User can find links to all the technology used in this application.
- ![cloud 8](https://user-images.githubusercontent.com/31361652/31910737-580b3794-b7f3-11e7-8af5-4620fdd4bd8a.PNG)
- * Link to users Facebook, linkedin, gmail and other social media account in a click away.
- ![about](https://user-images.githubusercontent.com/31361652/31915431-4aa516fa-b803-11e7-83ed-9eb78a285173.PNG)
- 
- # ARCHITECTURE DIGRAM FOR THIS PROJECT
- 
- ![savetothecloud](https://user-images.githubusercontent.com/31361652/31912751-c4153b82-b7f9-11e7-84a1-ac1c00bd9ba2.jpg)
-
+  
 
 
 # PREREQUISITES :
